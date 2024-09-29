@@ -1,0 +1,16 @@
+{
+  "name": "org.azuretek.copy-transform-shortcut",
+  "displayName": "Copy Transform Shortcut",
+  "description": "",
+  "version": "1.0.0",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "kobi32768",
+    "email": "kobi32768@azuretek.org",
+    "url": "https://azuretek.org/"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "unity": "2022.3"
+}
